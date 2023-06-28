@@ -4,7 +4,35 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="00bfcc49-a2cc-4b52-8d68-ceb33f03b11c" name="Changes" comment="" />
+    <list default="true" id="00bfcc49-a2cc-4b52-8d68-ceb33f03b11c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExemplosMod11/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExemplosMod11/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExemplosMod11/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExemplosMod11/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExemplosMod11/src/array/ExemploBubbleSortDinamico.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExemplosMod11/src/array/ExemploBubbleSortFixo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExemplosMod11/src/array/ExemplosArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExemplosMod11/src/domain/Aluno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExemplosMod11/src/domain/Biblioteca.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExemplosMod11/src/domain/ComparaNotaAluno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExemplosMod11/src/domain/Livro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExemplosMod11/src/iterator/ExemploIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExemplosMod11/src/list/ExemploArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExemplosMod11/src/list/ExemploArrayListAluno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExemplosMod11/src/list/ExemploLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExemplosMod11/src/list/ExemploLinkedListAluno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExemplosMod11/src/list/TestesPerformanceList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExemplosMod11/src/queueu/ExemploArrayDeque.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExemplosMod11/src/queueu/ExemploLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExemplosMod11/src/queueu/ExemploPriorityQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExemplosMod11/src/set/ExemploHashSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExemplosMod11/src/set/ExemploHashSetAluno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExemplosMod11/src/set/ExemploLinkedHashSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExemplosMod11/src/set/ExemploTreeSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExemplosMod11/src/set/ExemploTreeSetAluno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExemplosMod11/src/set/TestesPerformanceSet.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,5 +67,16 @@
       <updated>1686428374770</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

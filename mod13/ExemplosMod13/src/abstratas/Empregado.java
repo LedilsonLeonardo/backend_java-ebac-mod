@@ -11,7 +11,6 @@ public abstract class Empregado {
 
   public  abstract  Double vencimento();
 
-
   public void imprimirSobrenome(){
       System.out.println("Sobrenome é " + this.sobreNome);
   }
